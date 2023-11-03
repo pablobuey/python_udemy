@@ -12,4 +12,4 @@ To see added files:
 git diff --staged --name-only
 
 Commit:
-git commit -m "name of the commit"
+git commit -m "name of the commit"hh

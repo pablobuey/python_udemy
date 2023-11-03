@@ -12,4 +12,7 @@ To see added files:
 git diff --staged --name-only
 
 Commit:
-git commit -m "name of the commit"hh
+git commit -m "name of the commit"
+
+He creado una nueva rama y he incluido esta linea.
+

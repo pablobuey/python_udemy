@@ -1,0 +1,15 @@
+Initialize repository:
+git init
+
+Add files (like Stage in Sourcetree):
+    To add all files:
+    git add . 
+
+    To add a single file:
+    git add <file>
+
+To see added files:
+git diff --staged --name-only
+
+Commit:
+git commit -m "name of the commit"

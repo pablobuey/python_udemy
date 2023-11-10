@@ -9,10 +9,14 @@ Add files (like Stage in Sourcetree):
     git add <file>
 
 To see added files:
-git diff --staged --name-only
+    git diff --staged --name-only
 
 Commit:
-git commit -m "name of the commit"
+    git commit -m "name of the commit"
 
+To delete origin branch:
+    git push origin --delete <branch name>
 
+To delete local branch:
+    git branch -d featureExample
 

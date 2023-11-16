@@ -4,7 +4,7 @@ num2 = input("Enter a second number:")
 
 #casting to int
 num1 = int(num1)
-num2 = int(num1)
+num2 = int(num2)
 
 #calculator
 sum = num1 + num2

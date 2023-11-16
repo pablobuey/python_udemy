@@ -1,9 +1,6 @@
 for numero in range(5):
     print(numero)
 
-
-
-
 buscar = 10
 for numero in range(5):
     print(numero)

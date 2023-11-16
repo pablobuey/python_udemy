@@ -3,7 +3,6 @@
 # \'
 # \\
 # \n -> salto de linea
-
 # comillas dentro de comillas
 curso = 'Ultimate "Python"'
 print(curso)

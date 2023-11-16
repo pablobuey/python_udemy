@@ -1,4 +1,3 @@
-
 #Python es un lenguaje de programación dinámicamente tipado, e interpretado
 #Puedes crear variables sin indicar el tipo
 variableString = "Hola Mundo"

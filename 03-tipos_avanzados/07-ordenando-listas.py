@@ -42,3 +42,7 @@ print(usuarios)
 usuarios.sort(key=ordena, reverse = True)
 print(usuarios)
 # los ordena al revés
+
+usuarios.sort(key=lambda el:el[1], reverse = True) # función lambda o función anónima. No haría falta tener la funcion ordena creada a parte.
+print(usuarios)
+# los ordena al revés
